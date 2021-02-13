@@ -1,9 +1,8 @@
 package solvers;
 
-public class Main {
+public class BasicSolver {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 
