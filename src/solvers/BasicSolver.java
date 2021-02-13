@@ -1,9 +1,13 @@
 package solvers;
 
-public class BasicSolver {
+import model.Problem;
+import model.Solution;
 
-	public static void main(String[] args) {
+public class BasicSolver extends Solver{
 
+	@Override
+	public Solution solve(Problem Problem) {
+		return null;
 	}
 
 }
