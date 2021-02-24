@@ -5,5 +5,5 @@ import model.Solution;
 
 public abstract class Solver {
 
-	public abstract Solution solve(Problem Problem);
+	public abstract Solution solve(Problem problem);
 }
